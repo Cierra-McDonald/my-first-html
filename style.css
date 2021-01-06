@@ -1,0 +1,32 @@
+.highlighter {
+    background-color: rgb(44, 207, 212);
+}
+.list_color {
+    color:coral;
+}
+body {
+    background-color: crimson;
+}
+p {
+    font-size: 1.4rem;
+    font
+
+}
+.box {
+    box-sizing: border-box;
+    height: 135px;
+    width: 150px;
+    background-color:rgb(24, 206, 103);
+    border: solid;
+    padding: 20px;
+    margin: 15px;
+    overflow: hidden;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+}
